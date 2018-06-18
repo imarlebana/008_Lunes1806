@@ -2,7 +2,7 @@ import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 
 import java.util.Scanner;
 
-public class Cadenas {
+public class Ejercicio1 {
 
     public static void main(String[] args) {
 
